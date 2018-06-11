@@ -10,7 +10,7 @@ Step 2 :- cd Metasploit-Installer-For-Android-Termux
 
 
 
-Step 3 :- chmod +x Metasploit Installer.sh
+Step 3 :- chmod +x "Metasploit Installer.sh"
 
 
 
