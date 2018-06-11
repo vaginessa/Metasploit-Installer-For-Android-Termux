@@ -15,7 +15,7 @@ Step 3 :- chmod +x "Metasploit Installer.sh"
 
 
 
-Step 4 :- ./Metasploit Installer.sh
+Step 4 :- ./"Metasploit Installer.sh"
 
 
 
